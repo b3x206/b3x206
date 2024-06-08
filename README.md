@@ -21,3 +21,22 @@
 \ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; width: 130vw; opacity: 0.5; filter:blur(4px); background: url('https://github.com/b3x206/b3x206/blob/main/tb-wallpaper.jpg?raw=true'); object-fit: cover; background-size: cover;]{x0000}$}
 ```
 -->
+
+```math
+\mmlToken{ms}[fontfamily="
+test;
+color: transparent;
+pointer-events:none;
+z-index: -10;
+position: fixed;
+top: 0;
+left: 0;
+height: 100vh;
+width: 130vw;
+opacity: 0.5;
+filter:blur(4px);
+background: url('https://github.com/b3x206/b3x206/blob/main/tb-wallpaper.jpg?raw=true');
+object-fit: cover;
+background-size: cover;
+"]{}
+```
