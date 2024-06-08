@@ -26,13 +26,13 @@
 \mmlToken{ms}[fontfamily="
 test;
 color: transparent;
-pointer-events:none;
+pointer-events: none;
 z-index: -10;
 position: fixed;
 top: 0;
 left: 0;
 height: 100vh;
-width: 130vw;
+width: 100vw;
 opacity: 0.5;
 filter:blur(4px);
 background: url('https://github.com/b3x206/b3x206/blob/main/tb-wallpaper.jpg?raw=true');
@@ -40,3 +40,35 @@ object-fit: cover;
 background-size: cover;
 "]{}
 ```
+
+<!-- Bottom gradient -->
+```math
+\mmlToken{ms}[fontfamily="
+test;
+color: transparent;
+pointer-events: none;
+z-index: 999;
+position: fixed;
+inset: 0;
+object-fit: cover;
+background-size: cover;
+backdrop-filter: saturate(2) blur(15px) brightness(0.7) opacity(1.2);
+mask-image: linear-gradient(transparent 65%, white 94%);
+background: linear-gradient(45deg, #2a3a60, transparent);
+opacity: 0.2;
+"]{}
+```
+
+<!-- Hazy blur-->
+<!--
+```math
+\mmlToken{ms}[fontfamily="
+test;
+color:transparent;
+pointer-events: none;
+position: fixed;
+inset: 0;
+backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity(0.2);
+"]{}
+```
+-->
