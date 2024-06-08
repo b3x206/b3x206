@@ -16,4 +16,6 @@
 <!-- such github profile ricing, much wow. -->
 [![b3x206's GitHub stats](https://github-readme-stats.vercel.app/api?username=b3x206&show_icons=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
-\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; filter:blur(4px); background: url('https://github.com/b3x206/b3x206/blob/main/tb-wallpaper.png?raw=true');]{x0000}$}
+```math
+\ce{$&#x5C;unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; filter:blur(4px); background: url('https://github.com/b3x206/b3x206/blob/main/tb-wallpaper.jpg?raw=true');]{x0000}$}
+```
