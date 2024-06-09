@@ -22,7 +22,7 @@
 ```
 -->
 
-```math
+<!-- ```math
 \mmlToken{ms}[fontfamily="
 test;
 color: transparent;
@@ -39,10 +39,10 @@ background: url('https://github.com/b3x206/b3x206/blob/main/tb-wallpaper.jpg?raw
 object-fit: cover;
 background-size: cover;
 "]{}
-```
+``` -->
 
 <!-- Bottom gradient -->
-```math
+<!-- ```math
 \mmlToken{ms}[fontfamily="
 test;
 color: transparent;
@@ -57,7 +57,7 @@ mask-image: linear-gradient(transparent 65%, white 94%);
 background: linear-gradient(45deg, #2a3a60, transparent);
 opacity: 0.2;
 "]{}
-```
+``` -->
 
 <!-- Hazy blur-->
 <!--
