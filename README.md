@@ -13,5 +13,5 @@ Nothing to say here other than :
 
 ---
 <p align="right">
-    <sup>Did you really read this all? Wow, cool.</sup>
+    <sup>Did you really read all of this? Wow, cool.</sup>
 </p>
