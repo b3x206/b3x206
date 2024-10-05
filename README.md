@@ -4,7 +4,7 @@ Nothing to say here other than :
 - I do / help with random projects
 - 73 billion neglected game and side projects
 - And code of course.
-- * > <sub>(^my code involving: creating whatever slop that works with callbacks and singletons/global variables [no AI, i am doing organic slop])</sub>
+- * > <sub>(^my code involving: creating whatever slop that works with callbacks and singletons/global variables)</sub>
 
 ---
 <br/>
@@ -13,5 +13,5 @@ Nothing to say here other than :
 
 ---
 <p align="right">
-    <sup>Did you really read all of this? Wow, cool.</sup>
+    <sup>Did you really read all of this? Alrighty.</sup>
 </p>
