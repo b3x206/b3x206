@@ -1,10 +1,10 @@
 ## hi 👋
 
-Nothing to say here other than :
-- I do / help with random projects
-- 73 billion neglected game and side projects
-- And code of course.
-- * > <sub>(^my code involving: creating whatever slop that works with callbacks and singletons/global variables)</sub>
+🏆 I'm the recipient of the following awards 🏆
+* _development hell again award_
+* _failed classes again award_
+
+and I usually do nothing but I say _"I'm doing something"_
 
 ---
 <br/>
@@ -13,5 +13,5 @@ Nothing to say here other than :
 
 ---
 <p align="right">
-    <sup>Did you really read all of this? Alrighty.</sup>
+    <sup>Δ _may be_ horrifying or nice, it depends.</sup>
 </p>
