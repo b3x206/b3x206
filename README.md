@@ -1,10 +1,6 @@
 ## hi 👋
 
-🏆 I'm the recipient of the following awards 🏆
-* _development hell again award_
-* _failed classes again award_
-
-and I usually do nothing but I say _"I'm doing something"_
+Nothing notable here tbh.
 
 ---
 <br/>
@@ -13,5 +9,5 @@ and I usually do nothing but I say _"I'm doing something"_
 
 ---
 <p align="right">
-    <sup>Δ _may be_ horrifying or nice, it depends.</sup>
+    <sup>hello people, i'm a space dog.</sup>
 </p>
